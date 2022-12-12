@@ -1,0 +1,9 @@
+{
+  "ext1": {
+    "id": 1,
+    "title": "argo-rollouts",
+    "repoUrl": "https://github.com/argoproj-labs/rollout-extension.git",
+    "filePath": "manifests/install.yaml",
+    "namespace": "argocd"
+  }
+}
